@@ -1,0 +1,5 @@
+golang-securecookie (0.0~git20140312-1) precise; urgency=low
+
+  * Initial release.
+
+ -- Lance Cooper <lance@struktur.de>  Wed, 12 Mar 2014 18:19:34 -0500
