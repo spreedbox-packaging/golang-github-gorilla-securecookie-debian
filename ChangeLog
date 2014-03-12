@@ -1,0 +1,39 @@
+2013-12-04  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Add go 1.2 to travis.yml
+
+2013-11-30  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Add Travis badge
+
+2013-11-30  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Add travis.yml
+
+2013-10-17  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Better errors for {En,De}codeMulti.
+
+2013-01-01  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #2 from jtdowney/master
+
+2012-12-31  John Downey  <john@jtdowney.com>
+
+	* Fix description for Encode
+
+2012-10-13  moraes  <rodrigo.moraes@gmail.com>
+
+	* Use the same MultiError version from the App Engine SDK.
+
+2012-10-13  moraes  <rodrigo.moraes@gmail.com>
+
+	* Better errors for EncodeMulti and DecodeMulti. Closes #1.
+
+2012-10-03  moraes  <rodrigo.moraes@gmail.com>
+
+	* Initial files.
+
+2012-10-02  rodrigo moraes  <rodrigo.moraes@gmail.com>
+
+	* Initial commit
