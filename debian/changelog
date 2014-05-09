@@ -1,3 +1,9 @@
+golang-securecookie (0.0~git20140509-1) UNRELEASED; urgency=low
+
+  * Import latest upstream sources.
+
+ -- Lance Cooper <lance@struktur.de>  Fri, 09 May 2014 13:28:00 -0500
+
 golang-securecookie (0.0~git20140312-1) precise; urgency=low
 
   * Initial release.
