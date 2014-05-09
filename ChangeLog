@@ -1,3 +1,15 @@
+2014-04-09  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #7 from hjr265/master
+
+2014-04-09  Mahmud Ridwan  <m@hjr265.me>
+
+	* Merge branch 'fix-6'
+
+2014-04-09  Mahmud Ridwan  <m@hjr265.me>
+
+	* Expose ErrMacInvalid; fixes gorilla/securecookie#6
+
 2013-12-04  Kamil Kisiel  <kamil@kamilkisiel.net>
 
 	* Add go 1.2 to travis.yml
