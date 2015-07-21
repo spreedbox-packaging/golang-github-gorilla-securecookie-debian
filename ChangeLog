@@ -1,3 +1,111 @@
+2015-07-16  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #26 from Annonomus-Penguin/patch-1
+
+2015-07-16  Annonomus-Penguin  <Annonomus-Penguin@users.noreply.github.com>
+
+	* Fixed broken link in README
+
+2015-07-05  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #23 from elithrar/readme-updates
+
+2015-07-05  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Fleshed out the README based on doc.go.
+
+2015-06-05  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #22 from cyx/use-reflect-deepequal
+
+2015-06-05  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #21 from elithrar/json-encoder
+
+2015-05-25  Cyril David  <cyx@cyx.is>
+
+	* Use reflect.DeepEqual instead
+
+2015-05-20  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Merge branch 'json-encoder' of github.com:elithrar/securecookie into json-encoder
+
+2015-05-16  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Added a JSON encoder/decoder to securecookie.
+
+2015-05-16  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Fixed typo - TestEncription => TestEncryption
+
+2015-05-16  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Added a JSON encoder/decoder to securecookie.
+
+2015-03-27  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #19 from dchest/testinvalid
+
+2015-03-27  Dmitry Chestnykh  <dmitry@codingrobots.com>
+
+	* Add test for decoding some invalid cookies.
+
+2015-03-27  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Revert "Improve Decode against timing attacks"
+
+2015-03-27  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Revert "Commenting retErr and setErr in Decode"
+
+2015-03-27  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Revert "A few more comments on decoding."
+
+2015-03-17  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* A few more comments on decoding.
+
+2015-03-17  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #16 from elithrar/patch-1
+
+2015-03-17  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #15 from abduelhamit/master
+
+2015-03-18  Matt Silverlock  <matt@eatsleeprepeat.net>
+
+	* Removed redundant calls to len()
+
+2015-03-17  Abdülhamit Yilmaz  <mr.yilmaz@gmx.de>
+
+	* Commenting retErr and setErr in Decode
+
+2015-03-17  Abdülhamit Yilmaz  <mr.yilmaz@gmx.de>
+
+	* Improve Decode against timing attacks
+
+2015-03-17  Abdülhamit Yilmaz  <mr.yilmaz@gmx.de>
+
+	* Add TestMissingKey
+
+2015-03-17  Abdülhamit Yilmaz  <mr.yilmaz@gmx.de>
+
+	* Omit unnecessary `else`s
+
+2015-02-02  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Fix broken error message on invalid MAC.
+
+2014-11-20  Kamil Kisiel  <kamil@kamilkisiel.net>
+
+	* Merge pull request #11 from dominikh/master
+
+2014-11-20  Dominik Honnef  <dominikh@fork-bomb.org>
+
+	* say that we create a key of a certain length, not strength
+
 2014-04-09  Kamil Kisiel  <kamil@kamilkisiel.net>
 
 	* Merge pull request #7 from hjr265/master
